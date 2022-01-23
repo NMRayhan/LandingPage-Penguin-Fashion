@@ -1,0 +1,68 @@
+.menu-bar-item ul li {
+  margin-left: 40px;
+  color: #3c3c3c;
+  font-family: "Roboto", sans-serif;
+}
+.half-side .banner-title {
+  font-family: "Bebas Neue", cursive;
+  color: #fabe4c;
+  font-size: 80px;
+  line-height: 96px;
+}
+.half-side .banner-details {
+  color: #3e3e3e;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+.half-side span {
+  color: #363958;
+}
+.buy-now {
+  background-color: #8faa28;
+  color: white;
+  font-size: 16px;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+.buy-now .fa-cart-plus {
+  margin-right: 8px;
+}
+.man-section h2 {
+  color: #363958;
+  font-family: Bebas Neue;
+  text-transform: uppercase;
+}
+.card {
+  border: 8px solid #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+}
+.card-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  color: #363958;
+}
+.card-bottom {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 0px 10px;
+}
+.card-bottom span {
+  color: #fabe4c;
+  font-family: Roboto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 2em;
+}
+.box {
+  background: #ffffff;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+  margin: 10px 0px;
+  padding: 15px 10px;
+  color: #363958;
+  font-family: Roboto;
+}
